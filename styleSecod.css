@@ -1,0 +1,22 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+    main {
+        display: flex;
+        justify-content: space-between;
+        border-top: 3px solid gray;
+        border-bottom: 3px solid gray;
+        font-family: "Montserrat", sans-serif;
+    
+    }
+
+    .hello {
+        margin: 100px;
+    width: 250px;
+    height: 500px;
+    }
+    

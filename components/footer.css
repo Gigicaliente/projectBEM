@@ -1,0 +1,36 @@
+.footer {
+    padding: 20px 30px;
+ 
+ 
+ }
+ 
+ .footer .footer__container {
+     font-family: "Montserrat", sans-serif;
+     font-size: 13px;
+     text-decoration: underline;
+     display: flex;
+     justify-content: space-between;
+ 
+     
+ 
+ }
+ 
+ .footer .footer__container .footer__list {
+ display: flex;
+ justify-content: space-between;
+ color: gray;
+ }
+ 
+ .footer .footer__container .footer__list .footer__list-item {
+ margin-right: 30px;
+ }
+ 
+ 
+ .footer .footer__container .footer__list .footer__list-item:hover {
+ cursor: pointer;
+ }
+ 
+ 
+ .footer .footer__container .footer__rights { 
+     margin-left: 470px;
+ }
